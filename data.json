@@ -1,0 +1,49 @@
+{
+    "company": "EventsPro",
+    "title": "Events By Jane: Expert Event Planning Services",
+    "subtitle": "Experienced Event Planner with a Flair for Detail and Professionalism",
+    "aboutus": [{
+            "title": "Meet Jane Dawson: Experieced Event Planner with a  Passion for Creating Mmemorable Moments",
+            "subtitle": "Hi there! I'm Jane Dawson, an organized and detail-oriented event planner with over 8 years of experience in planning and executing meetings and events. I've developed strong relationships with quality vendors and have a proven ability to manage schedules, meet tight deadlines, and offer consistently high-quality events. Let's work together to create an unforgettable experience for your next event!"
+        },
+        [{
+            "heading1": "organization",
+            "subheading1": "Expert in planning and executing meetings and events with a proven ability to manage schedules, meet tight deadlines, and offer consistently high-quality events."
+        }, {
+            "heading2": "Attention to Detail",
+            "subheading2": "Detail-oriented event planner with over eight years of experience in selecting and transforming venues to accomodate clients\u2019 needs."
+        }, {
+            "heading3": "Vendor Management",
+            "subheading3": "Successfully developed strong relationships with quality vendors and served as the primary point of contact for all vendors in planning and executing corporate events."        
+        }, {
+            "heading4": "Budget Management",
+            "subheading4": "Managed budgets of up to $50,000 for over 1000 attendees in planning and executing corporate events, and managed budgets up to $20,000 for up to 500 attendees in planning and executing proffessional and social events."
+        }]
+    ],
+    "services": [{
+            "title": "Expert event planning services for corporate and social events"
+        },
+        [{
+            "heading1": "Corporate Event Planning",
+            "subheading1": "Direct the planning and executuon of corporate events (meetings, fundraising events) for prestigious corporate clients. Manage budgets of up to $50,000 for over 1000 attendees."
+        }, {
+            "heading2": "Social Event Planning",
+            "subheading2": "Seamlessly plan and execute events, both professional (conference, meeting) and social (weddings, birthday celebrations). Manage budgets of up to $20,000, for up to 500 attendees."
+        }, {
+            "heading3": "Vendor Management",
+            "subheading3": "Select and serve as primary point of contact for all vendors. Maintain strong relationships with numerous international vendors to assist coporations in planning overseas events."
+        }, {
+            "heading4": "Venue Selection",
+            "subheading4": "Expert in selecting and transforming venues to accomodate clients\u2019 needs."
+        }, {
+            "heading5": "Fundraising and Donor Communication",
+            "subheading5": "Coordinate and fundraising and donor communication for nonprofit organization. Organize annual fundraisers and serve as primary point of contact for all involved vendors. Develop effective social networking, radio, and print ad companies to promote events."
+        }, {
+            "heading6": "Budget Management",
+            "subheading6": "Proven ability to manage schedules, meet tight deadlines, and offer consistently high-quality events. Manage budgets of up to $50,000 for over 1000 attendees."
+        }]
+
+    
+]
+
+}
